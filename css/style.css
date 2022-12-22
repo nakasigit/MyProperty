@@ -1,0 +1,23 @@
+.navbar-light {
+    background-color: white !important;
+}
+
+.bg-light {
+    background-color: white !important;
+}
+
+.navbar-primary {
+    background-color: #3573C0 !important;
+}
+
+.bg-primary {
+    background-color: #3573C0 !important;
+}
+
+.btn-primary {
+    background-color: #3573C0 !important;
+}
+
+.margin-content{
+    margin: 0 3% 0 3%;
+}
