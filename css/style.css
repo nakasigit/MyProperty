@@ -18,6 +18,46 @@
     background-color: #3573C0 !important;
 }
 
-.margin-content{
+.btn-primary:hover {
+    color: #3573C0;
+    border-color: #3573C0;
+    background-color: white !important;
+}
+
+.btn-outline-primary {
+    color: #3573C0;
+    border-color: #3573C0;
+}
+
+.btn-outline-primary:hover {
+    color: white;
+    border-color: white;
+    background-color: #3573C0 !important;
+}
+
+.margin-content {
     margin: 0 3% 0 3%;
+}
+
+.padding-content {
+    padding: 0 250px 0 250px;
+}
+
+.padding-header{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.custom-shadow {
+    text-shadow: 2px 2px 8px #000000;
+}
+
+.search-home {
+    width: 70%;
+}
+
+.header-home{
+    background-image: url('/assets/home/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
